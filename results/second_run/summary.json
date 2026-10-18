@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "jobs": 1,
+  "tests_total": 1,
+  "tests_passed": 1,
+  "tests_failed": 0,
+  "total_wall_seconds": 7.843068,
+  "tests": [
+    {
+      "name": "fifo_basic",
+      "status": "PASS",
+      "duration_seconds": 7.83988,
+      "return_code": 0,
+      "log": "fifo_basic/simulation.log",
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+[console_scripts]
+simreg = simreg.cli:main

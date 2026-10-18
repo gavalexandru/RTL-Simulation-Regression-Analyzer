@@ -1,0 +1,13 @@
+pyproject.toml
+rtl_simulation_regression_analyzer.egg-info/PKG-INFO
+rtl_simulation_regression_analyzer.egg-info/SOURCES.txt
+rtl_simulation_regression_analyzer.egg-info/dependency_links.txt
+rtl_simulation_regression_analyzer.egg-info/entry_points.txt
+rtl_simulation_regression_analyzer.egg-info/requires.txt
+rtl_simulation_regression_analyzer.egg-info/top_level.txt
+simreg/__init__.py
+simreg/cli.py
+simreg/compare.py
+simreg/runner.py
+tests/test_compare.py
+tests/test_runner.py

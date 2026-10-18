@@ -1,0 +1,10 @@
+{
+  "tests": [
+    {
+      "name": "fifo_basic",
+      "source": "tb/tb_fifo.sv",
+      "top": "tb_fifo",
+      "defines": []
+    }
+  ]
+}
